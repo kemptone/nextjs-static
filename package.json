@@ -6,5 +6,8 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
+  },
+  "dev-dependencies": {
+    "node-static": "^0.7.11"
   }
 }
